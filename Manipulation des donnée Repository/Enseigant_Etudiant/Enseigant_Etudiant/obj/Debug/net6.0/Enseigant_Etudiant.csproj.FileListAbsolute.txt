@@ -1,0 +1,15 @@
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\bin\Debug\net6.0\Enseigant_Etudiant.exe
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\bin\Debug\net6.0\Enseigant_Etudiant.deps.json
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\bin\Debug\net6.0\Enseigant_Etudiant.runtimeconfig.json
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\bin\Debug\net6.0\Enseigant_Etudiant.dll
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\bin\Debug\net6.0\Enseigant_Etudiant.pdb
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\Enseigant_Etudiant.csproj.AssemblyReference.cache
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\Enseigant_Etudiant.GeneratedMSBuildEditorConfig.editorconfig
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\Enseigant_Etudiant.AssemblyInfoInputs.cache
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\Enseigant_Etudiant.AssemblyInfo.cs
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\Enseigant_Etudiant.csproj.CoreCompileInputs.cache
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\Enseigant_Etudiant.dll
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\refint\Enseigant_Etudiant.dll
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\Enseigant_Etudiant.pdb
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\Enseigant_Etudiant.genruntimeconfig.cache
+E:\Full stack and devops\Manipulation des donnée Repository\Enseigant_Etudiant\Enseigant_Etudiant\obj\Debug\net6.0\ref\Enseigant_Etudiant.dll
